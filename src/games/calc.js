@@ -23,4 +23,3 @@ const generateRound = () => {
 export const description = 'What is the result of the expression?'
 
 export default generateRound
-
